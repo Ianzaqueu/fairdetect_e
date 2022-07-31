@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: fairdetect-group-e
+Version: 0.1
+Summary: Python package to analyze bias in dataset and model created by IE MBD22 Group E. Based on work from Ryan Daher & Prof Manoel Gadi
+Home-page: https://github.com/Ianzaqueu/fairdetect_e
+Author: IE MBD22 Group E
+Author-email: student123@student.ie.edu
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
